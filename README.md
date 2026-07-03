@@ -180,6 +180,3 @@ The predictions align strongly with business intuition and EDA insights.
 pip install -r requirements.txt
 python app.py
 ```
-## Author
-
-Robiul Hasan Jisan
